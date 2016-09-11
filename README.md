@@ -1,9 +1,15 @@
 # diversity-university list
 Diversity &amp; Inclusion Offices at Universities
 
+A Curated list of diversity offices.
+
+_If you would like to add any Twitter feeds or corrections, please submit a pull request_
+
+
 Columbia University	http://www.columbia.edu/cu/vpdi/	Office of Diversity Initiatives		
 Case Western Reserve University	http://case.edu/president/aaction/aaeeo.html	Office Of Faculty Diversity		
-Michigan State	http://www.inclusion.msu.edu/	Office of Inclusion and Intercultural Initiatives.	
+Michigan State	http://www.inclusion.msu.edu/	Office of Inclusion and Intercultural Initiatives.
+Ohio State University    http://odi.osu.edu/   office of Diversity and Inclusion
 SUNY at Stony Brook	http://ws.cc.stonybrook.edu/diversity/	Link to Office of Diversity & Affirmative Action	
 University of California - Los Angeles	http://www.faculty.diversity.ucla.edu/index.html 	Office for Faculty Diversity and Development	
 University of Colorado - Boulder	http://www.colorado.edu/odece/	Link of Office of Diversity	
