@@ -1,4 +1,4 @@
-# diversity-university list
+# Diversity University list
 Diversity &amp; Inclusion Offices at Universities
 
 A Curated list of diversity offices.
