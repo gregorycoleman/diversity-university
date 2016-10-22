@@ -13,14 +13,14 @@ _If you would like to add any Twitter feeds or corrections, please submit a pull
 * Columbia University              [Office of Diversity Initiatives](http://www.columbia.edu/cu/vpdi/ )
 * Cornell University      [The Office of Academic Diversit]（https://www.oadi.cornell.edu/）
 * Duke University     [Office for Institutional Equity Diversity & Equity](diversity.duke.edu)
-* Harvard University      harvard.edu
-* Johns Hopkins University        jhu.edu
-* Massachusetts Institute of Technology   mit.edu
+* Harvard University      harvard.edu   [Office for Equity, Diversity, and Inclusion] (diversity.college.harvard.edu/)
+* Johns Hopkins University        jhu.edu  [Office of Institutional Equity ](web.jhu.edu/administration/jhuoie/)
+* Massachusetts Institute of Technology   mit.edu   [Diversity – Equity – Inclusion at MIT](diversity.mit.edu)
 * Michigan State     [Office of Inclusion and Intercultural Initiatives](http://www.inclusion.msu.edu/)
 * New York University     nyu.edu
 * Ohio State University      [Office of Diversity and Inclusion](http://odi.osu.edu/ )
 * Pennsylvania State University   psu.edu
-* Princeton University    princeton.edu
+* Princeton University    princeton.edu  [Many Voices, One Future](https://inclusive.princeton.edu/)
 * Purdue University       [Division of Diversity and Inclusion](http://www.purdue.edu/diversity-inclusion/)
 * Rutgers University      rutgers.edu
 * SUNY at Stony Brook     [Office of Diversity & Affirmative Action](http://ws.cc.stonybrook.edu/diversity/ )
